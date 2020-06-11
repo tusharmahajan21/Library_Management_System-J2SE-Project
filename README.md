@@ -5,4 +5,6 @@ This is a basic library management system where you can upload, create, delete a
   2. Can add multiple books with different IDs.
   3. Keeps the record for the fine amoount collected, if not after few days penalty increases and the whole record along with record of issuing and returning is kept in the database.
 Its a good project for a person to showcase during the junior year with the basic java knowledge. 
-It was made using NetBeans IDE and the whole code is done in JAVA.
+
+
+It was made using **NetBeans IDE** and the whole code is done in JAVA.
