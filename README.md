@@ -7,4 +7,4 @@ This is a basic library management system where you can upload, create, delete a
 Its a good project for a person to showcase during the junior year with the basic java knowledge. 
 
 
-It was made using **NetBeans IDE** and the whole code is done in JAVA.
+It was made using **NetBeans IDE** and the whole code is done in **JAVA**.
